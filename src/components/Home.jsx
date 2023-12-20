@@ -7,7 +7,7 @@ const Home = () => {
    <>
     <div className='home'>
         <main>
-            <h1>CODER'S LIFE</h1>
+            <h1>CODER'S LIFE JOURNEY</h1>
             <p>Journey of a coder</p>
         </main>
 
@@ -40,7 +40,7 @@ const Home = () => {
      </div>
 
      <div className='home4'>
-        
+
 
 
      </div>
