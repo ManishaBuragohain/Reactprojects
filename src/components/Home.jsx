@@ -23,11 +23,7 @@ const Home = () => {
           <p>
             Life of a coder is a perpetual journey through the realms of logic
             and creativity. Each line of code penned is a step forward in the
-            intricate dance between problem-solving and innovation. The journey
-            begins with the initiation into programming languages, a landscape
-            where syntax and semantics become the coder's native tongue. The
-            journey of a coder is not just about crafting software; it's a
-            perpetual odyssey through the ever-expanding universe of technology.
+            intricate dance between problem-solving and innovation.
           </p>
         </div>
       </div>
@@ -35,22 +31,23 @@ const Home = () => {
         <div>
           <h1>Who are we?</h1>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            Praesentium quis laboriosam inventore? Lorem ipsum dolor sit amet
-            consectetur adipisicing elit. Rem consectetur natus minus, nobis
-            illum animi porro. Illo at ut sed eum ex in, quod debitis
-            recusandae. Animi quas, commodi dignissimos aliquam hic delectus
-            temporibus. Eius, perspiciatis. Ut totam officiis officia eos
-            nesciunt ex atque aut? Totam unde numquam natus ad, aspernatur
-            officiis dicta repudiandae eum. Sed totam voluptatem quam rem eaque
-            quasi ducimus, consectetur ex placeat minus quia corporis voluptas
-            porro ratione debitis voluptate eos laboriosam veritatis
-            consequuntur numquam nobis doloribus! Similique neque vero tempora
-            sunt libero necessitatibus adipisci amet nihil quibusdam eius ea
-            numquam labore impedit quo quisquam, facere quos unde porro
-            inventore reprehenderit id architecto aspernatur laboriosam.
-            Accusantium rerum suscipit non nihil sapiente, et architecto
-            deleniti quidem recusandae.
+            The developer's journey is a dynamic exploration into the world of
+            programming and software development, typically commencing with a
+            curiosity about computers and a desire to comprehend software
+            intricacies. Whether through formal education in computer science or
+            a self-taught approach using online resources and coding bootcamps,
+            developers build a foundation by learning programming languages and
+            fundamental concepts. This journey evolves as developers delve into
+            data structures, algorithms, and various programming paradigms.
+            Proficiency in version control systems like Git and collaboration
+            tools becomes crucial, preparing them for teamwork and contributions
+            to open-source projects. Specialization follows, with developers
+            choosing areas like web development, mobile apps, data science, or
+            machine learning. Real-world projects become a testing ground,
+            presenting challenges like debugging and optimization. Continuous
+            learning remains paramount, involving staying abreast of industry
+            trends, attending conferences, and participating in online
+            communities.
           </p>
         </div>
       </div>
